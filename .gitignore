@@ -1,0 +1,10 @@
+# RStudio files
+FW-simulations.Rproj
+.Rproj.user/
+.Rhistory
+
+# Old code
+old_code_tania/
+
+# specific code
+code/distance_calculator/calculation_density_distances.R
